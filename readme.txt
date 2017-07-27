@@ -10,3 +10,8 @@ Git  is free softwaare distributed under the GPL
 Git is a distributed version control system
 Git is free softwaare distributed under the GPL 
 Git has a mutable indedx called stage
+#管理修改
+Git is a distributed version control system
+Git is free softwaare distributed under the GPL 
+Git has a mutable indedx called stage
+Git tracks changes;
